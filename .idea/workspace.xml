@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48f49308-c421-4ab9-b39b-0dd9f4fbe385" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="48f49308-c421-4ab9-b39b-0dd9f4fbe385" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -194,7 +192,19 @@
       <option name="presentableId" value="Default" />
       <updated>1672321682358</updated>
     </task>
+    <task id="LOCAL-00001" summary="更改文件名">
+      <created>1686219342559</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686219342559</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更改文件名" />
+    <option name="LAST_COMMIT_MESSAGE" value="更改文件名" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -300,22 +310,22 @@
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/testcases/test_8mine_account.py</url>
+          <url>file://$PROJECT_DIR$/testcases/test_mine_account.py</url>
           <line>23</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/testcases/test_8mine_account.py</url>
+          <url>file://$PROJECT_DIR$/testcases/test_mine_account.py</url>
           <line>24</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/testcases/test_8mine_account.py</url>
+          <url>file://$PROJECT_DIR$/testcases/test_mine_account.py</url>
           <line>26</line>
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/testcases/test_8mine_account.py</url>
+          <url>file://$PROJECT_DIR$/testcases/test_mine_account.py</url>
           <line>28</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
@@ -330,7 +340,7 @@
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/testcases/test_6mine_agreement.py</url>
+          <url>file://$PROJECT_DIR$/testcases/test_mine_agreement.py</url>
           <line>37</line>
           <option name="timeStamp" value="37" />
         </line-breakpoint>
